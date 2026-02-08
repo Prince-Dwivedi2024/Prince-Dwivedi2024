@@ -106,7 +106,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Prince-Dwivedi2024/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Prince-Dwivedi2024/Prince-Dwivedi2024/output/snake.svg" alt="Snake animation" />
 
 ###
 
