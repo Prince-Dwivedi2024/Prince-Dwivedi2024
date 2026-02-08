@@ -114,6 +114,10 @@
 
 ![Open Source Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prince-Dwivedi2024&theme=tokyonight)
 
+## Problem Solving Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Prince_Dwivedi-2024?theme=dark&font=IBM%20Plex%20Sans)
+
 
 
 
