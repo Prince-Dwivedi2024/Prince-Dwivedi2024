@@ -75,7 +75,14 @@
 <a href="https://www.instagram.com/princedwivedi853/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princedwivedi853
 " height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Prince_Dwivedi-2024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prince_Dwivedi-2024" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/profile/dwivediprv9sx" target="blank"><img align="center" src="http://levelupcollege.com/wp-content/uploads/2022/07/gfg-logo.png" atl="prince" height="30" width="40" /></a>  
+<a href="https://www.geeksforgeeks.org/user/dwivediprv9sx/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="https://x.com/Dwiv68755Prince" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
 </p>
 
 <h3 align="left">How to reach me:</h3>
