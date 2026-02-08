@@ -90,12 +90,11 @@
 <a href="mailto:dwivediprince313@gmail.com"><img align="center" src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" alt="dwivediprince313@gmail.com" height="30" width="40" /></a>
 </p>
 
-##
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prince-Dwivedi2024&show_icons=true&locale=en&layout=compact" alt="Prince-Dwivedi2024" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Prince-Dwivedi2024&show_icons=true&locale=en&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Dwivedi2024&" alt="Prince-Dwivedi2024" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Dwivedi2024)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prince-Dwivedi2024&show_icons=true&locale=en" alt="Prince-Dwivedi2024" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince-Dwivedi2024&show_icons=true&locale=en)
 
-## 📈 Contribution Activity
