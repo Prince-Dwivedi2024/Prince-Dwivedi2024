@@ -98,4 +98,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince-Dwivedi2024&show_icons=true)
 
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prince-Dwivedi2024&theme=tokyo-night)
+
+
 
