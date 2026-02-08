@@ -90,12 +90,12 @@
 <a href="mailto:dwivediprince313@gmail.com"><img align="center" src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" alt="dwivediprince313@gmail.com" height="30" width="40" /></a>
 </p>
 
-###
+##
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahab-16&show_icons=true&locale=en&layout=compact" alt="shahab-16" /></p>
 
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahab-16&" alt="shahab-16" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahab-16&show_icons=true&locale=en" alt="shahab-16" /></p>
+
+## 📈 Contribution Activity
