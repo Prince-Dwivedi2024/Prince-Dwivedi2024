@@ -68,3 +68,17 @@
 <img width="12" />
  
 ###
+
+## Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/prince-dwivedi-bb4452279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince dwivedi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/princedwivedi853/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princedwivedi853
+" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Prince_Dwivedi-2024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prince_Dwivedi-2024" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/dwivediprv9sx" target="blank"><img align="center" src="http://levelupcollege.com/wp-content/uploads/2022/07/gfg-logo.png" atl="prince" height="30" width="40" /></a>  
+</p>
+
+<h3 align="left">How to reach me:</h3>
+<p align="left">
+<a href="mailto:dwivediprince313@gmail.com"><img align="center" src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" alt="dwivediprince313@gmail.com" height="30" width="40" /></a>
+</p>
