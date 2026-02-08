@@ -19,7 +19,7 @@
 - ⚙️ Experienced in **backend systems, APIs, and scalable software**
 - 🌐 Skilled in building **production-ready web applications** using **system design principles**
 - 🤖 **ML & AI Enthusiast** (LLMs, fine-tuning, AI integrations)
-- 🧠 **DSA enthusiast** with **500+ problems solved**  
+- 🧠 **DSA enthusiast** with **400+ problems solved**  
   *(LeetCode, GFG, code360)*
 - 🐍 Proficient in **Python, Java, and JavaScript**
 - 🌟 Intern at **Profinch Solutions** in **Software Development**
