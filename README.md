@@ -102,5 +102,13 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prince-Dwivedi2024&theme=tokyo-night)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Prince-Dwivedi2024/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
