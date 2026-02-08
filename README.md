@@ -92,10 +92,10 @@
 
 ##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahab-16&show_icons=true&locale=en&layout=compact" alt="shahab-16" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prince-Dwivedi2024&show_icons=true&locale=en&layout=compact" alt="Prince-Dwivedi2024" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahab-16&" alt="shahab-16" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-Dwivedi2024&" alt="Prince-Dwivedi2024" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahab-16&show_icons=true&locale=en" alt="shahab-16" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prince-Dwivedi2024&show_icons=true&locale=en" alt="Prince-Dwivedi2024" /></p>
 
 ## 📈 Contribution Activity
