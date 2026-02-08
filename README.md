@@ -92,9 +92,10 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Prince-Dwivedi2024&show_icons=true&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Dwivedi2024&layout=compact&langs_count=8&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prince-Dwivedi2024)
+![GitHub Streak](https://streak-stats.demolab.com?user=Prince-Dwivedi2024)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince-Dwivedi2024&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince-Dwivedi2024&show_icons=true)
+
 
